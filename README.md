@@ -1,4 +1,4 @@
-[Live Demo](https://github.com/ZhenyaKu/todo-list-react/)
+[Live Demo](https://zhenyaku.github.io/todo-list-react)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
